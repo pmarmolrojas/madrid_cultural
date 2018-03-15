@@ -14,8 +14,8 @@ h2 {
 h3 {
     color: #343434;
     margin-left: 100px;
-    margin-right: 400px;
-    padding: 5px;
+    margin-right: 100px;
+
 }
 
 h4 {
@@ -60,8 +60,10 @@ h5 {
 .repor {
   margin-left: 100px;
   margin right: 400px;
-  pading: 5px;
+  line-height: 1.2;
+  text-indent:10px;
   font-family: 'Roboto Condensed', sans-serif;
   color: #343434;
+  white-space: normal;
 
 }
