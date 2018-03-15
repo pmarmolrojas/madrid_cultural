@@ -5,35 +5,35 @@ h1 {
 }
 
 h2 {
-    color: #ff007f;
-    margin-left: 200px;
+    color: #343434;
+    margin-left: 100px;
     margin-right: 400px;
     padding: 5px;
 }
 
 h3 {
-    color: #FD6C9E;
-    margin-left: 200px;
+    color: #343434;
+    margin-left: 100px;
     margin-right: 400px;
     padding: 5px;
 }
 
 h4 {
-  margin-left: 200px;
+  margin-left: 100px;
   margin-right: 400px;
   padding: 5px;
-  color: #343434
+  color: #343434;
 }
 
 h5 {
-    margin-left: 200px;
+    margin-left: 100px;
     margin-right: 400px;
     padding: 5px;
     color: #343434
 }
 
 #twitter {
-   margin-left: 200px;
+   margin-left: 100px;
    margin-right: 400px;
    padding: 5px;
    color: #343434
@@ -41,7 +41,7 @@ h5 {
 
 #mapa {
     margin-left: 100px;
-    margin-right: 200px;
+    margin-right: 100px;
     padding: 10px;
 }
 
@@ -53,14 +53,14 @@ h5 {
 }
 
 #semicirculo {
-    margin-right: 500px;
+    margin-right: 400px;
 
 }
 
 .repor {
-  margin-left: 200px;
-  margin right: 200px;
-  padding: 10px;
+  margin-left: 100px;
+  margin right: 400px;
+  pading: 5px;
   font-family: 'Roboto Condensed', sans-serif;
   color: #343434;
 
