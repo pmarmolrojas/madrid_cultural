@@ -1,0 +1,67 @@
+h1 {
+  margin-left: 300px;
+  padding: 50px;
+  color: pink;
+}
+
+h2 {
+    color: #ff007f;
+    margin-left: 200px;
+    margin-right: 400px;
+    padding: 5px;
+}
+
+h3 {
+    color: #FD6C9E;
+    margin-left: 200px;
+    margin-right: 400px;
+    padding: 5px;
+}
+
+h4 {
+  margin-left: 200px;
+  margin-right: 400px;
+  padding: 5px;
+  color: #343434
+}
+
+h5 {
+    margin-left: 200px;
+    margin-right: 400px;
+    padding: 5px;
+    color: #343434
+}
+
+#twitter {
+   margin-left: 200px;
+   margin-right: 400px;
+   padding: 5px;
+   color: #343434
+}
+
+#mapa {
+    margin-left: 100px;
+    margin-right: 200px;
+    padding: 10px;
+}
+
+
+#header {
+    width: 100%;
+    background: #ff007f;
+    position: fixed;
+}
+
+#semicirculo {
+    margin-right: 500px;
+
+}
+
+.repor {
+  margin-left: 200px;
+  margin right: 200px;
+  padding: 10px;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #343434;
+
+}
