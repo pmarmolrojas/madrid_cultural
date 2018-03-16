@@ -59,30 +59,30 @@ h5 {
 
 .repor {
   margin-left: 100px;
-  margin right: 400px;
+  margin right: 200px;
   line-height: 1.5;
   font-family: 'Roboto Condensed', sans-serif;
   color: #343434;
-  white-space: normal;
 
+}
+
+blockquote  {
+background:white url(comillas.gif) no-repeat scroll 10px 10px;
+padding:25px 0 25px 70px;
+}
+
+blockquote  p  {
+font-size: 18px;
+color: #333;
+}
+
+#center {
+  margin-left: 50px;
+  margin-right: 100px;
 }
 
 .entero {
   margin-left: 100px;
   margin-right: 200px;
 
-}
-
-.center {
-  margin-left: 50px;
-  margin-right: 100px;
-}
-
-#final {
-  margin-left: 100px;
-  margin-right: 200px;
-  line-height: 1.5;
-  font-family: 'Roboto Condensed', sans-serif;
-  color: #343434;
-  white-space: normal;
 }
