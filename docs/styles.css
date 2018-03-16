@@ -7,7 +7,7 @@ h1 {
 h2 {
     color: #343434;
     margin-left: 100px;
-    margin-right: 400px;
+    margin-right: 200px;
     padding: 5px;
 }
 
@@ -60,10 +60,29 @@ h5 {
 .repor {
   margin-left: 100px;
   margin right: 400px;
-  line-height: 1.2;
-  text-indent:10px;
+  line-height: 1.5;
   font-family: 'Roboto Condensed', sans-serif;
   color: #343434;
   white-space: normal;
 
+}
+
+.entero {
+  margin-left: 100px;
+  margin-right: 200px;
+
+}
+
+.center {
+  margin-left: 50px;
+  margin-right: 100px;
+}
+
+#final {
+  margin-left: 100px;
+  margin-right: 200px;
+  line-height: 1.5;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #343434;
+  white-space: normal;
 }
